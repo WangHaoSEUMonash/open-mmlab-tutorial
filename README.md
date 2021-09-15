@@ -1,8 +1,10 @@
 # SenseTime bilibili homepage
 [SenseTime](https://space.bilibili.com/630319191)
 
-# open-mmlab-tutorial
+# open-mmclassification-tutorial
 suzhou-server
+*The tutorial is summarized by the [open course](https://www.bilibili.com/video/BV1Lh411S7VY) of SenseTime*
+
 
 **Create a virtual environment**
 
