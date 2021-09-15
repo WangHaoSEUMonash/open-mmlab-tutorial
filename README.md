@@ -22,3 +22,5 @@ In this server: pip install mmcv-full -f https://download.openmmlab.com/mmcv/dis
 **Install [mmclassification](https://github.com/open-mmlab/mmclassification)**
 
 The more useful one is its [doc](https://mmclassification.readthedocs.io/en/latest/)
+
+To detail, use the Develop version in the doc.
