@@ -19,7 +19,7 @@ conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=10
 
 In this server: pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu102/torch1.8.0/index.html
 
-**Install [mmclassification](https://github.com/open-mmlab/mmclassification)**
+**Install [mmclassification](https://github.com/open-mmlab/mmclassification)or [mmdetection](https://github.com/open-mmlab/mmdetection)**
 
 The more useful one is its [doc](https://mmclassification.readthedocs.io/en/latest/)
 
